@@ -1,16 +1,16 @@
 {
     "homepage": "https://www.snipaste.com/",
     "description": "A snipping tool, which allows you to pin the screenshot back onto the screen.",
-    "version": "2.8-Beta",
+    "version": "2.8.1-Beta",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8-Beta-x64.zip",
-            "hash": "sha1:16876d80b9ab7fea7cd8b79ac6e32e412e285838"
+            "url": "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8.1-Beta-x64.zip",
+            "hash": "b726f2c522228ab23a13b295e0f0e467d47b306a07f509038d93e78eee34eb34"
         },
         "32bit": {
-            "url": "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8-Beta-x86.zip",
-            "hash": "sha1:7bc7568ccafc5573d9387e2ca9e2df37fdec8700"
+            "url": "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8.1-Beta-x86.zip",
+            "hash": "718962829e8da51f5122b692e07a27630b5dc8711bba534e39e84cba667659f4"
         }
     },
     "installer": {
