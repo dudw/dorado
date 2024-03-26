@@ -1,12 +1,12 @@
 {
     "homepage": "https://github.com/mamba-org/mamba",
     "description": "Micromamba is a tiny version of mamba, the fast conda package installer.",
-    "version": "1.5.7-0",
+    "version": "1.5.8-0",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://anaconda.org/conda-forge/micromamba/1.5.7/download/win-64/micromamba-1.5.7-0.tar.bz2",
-            "hash": "md5:53939d29e821d29c8b01143b153df114"
+            "url": "https://anaconda.org/conda-forge/micromamba/1.5.8/download/win-64/micromamba-1.5.8-0.tar.bz2",
+            "hash": "md5:3316463665804cb8dae1fdde4fbf667e"
         }
     },
     "extract_dir": "Library\\bin",
